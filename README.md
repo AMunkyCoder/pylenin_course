@@ -1,5 +1,5 @@
 # pylenin_course
-- Answers for the pylenin bootcamp
+Answers for the pylenin bootcamp
 
 # Courses
 
