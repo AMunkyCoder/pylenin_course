@@ -1,4 +1,3 @@
-
 print("Welcome", end=" ")
 print("to",  end=" ")
 print("Python",  end=" ")
