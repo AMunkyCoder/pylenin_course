@@ -5,7 +5,6 @@ def create_list():
     for i in range(1, 6):
         zero_list.append(0)
         print(i)
-    # zero_list[1:6] = [0]
     return zero_list
 
 if __name__ == '__main__':
